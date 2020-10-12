@@ -34,5 +34,5 @@ def getIPInfo(html):
     IParray.extend(IPresult)
     PORTarray.extend(PORTresult)
     HTTParray.extend(HTTPresult)
-    
+``` 
 ## vote方法需改写
